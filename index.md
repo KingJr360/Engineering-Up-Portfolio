@@ -24,4 +24,4 @@ My final milestone, I've come a long way from where I started just a couple of m
 My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail what the Arduino Uno microcontroller is and how an H-Bridge works.
 
 [![First Arduino Car Milestone")
-(https://youtu.be/Gc9PuJeIxvs?si=opAaviql7D-RXhbS)
+[![Dishawn's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1710282031/video_to_markdown/images/youtube--Gc9PuJeIxvs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Gc9PuJeIxvs?si=opAaviql7D-RXhbS "Dishawn's First Milestone")
