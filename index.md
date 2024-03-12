@@ -1,9 +1,9 @@
-# Project Name/Title Goes Here
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+# RC Car
+This RC car that I am building is a big achievment in my life and is something I might want to continue. The things this car can do is range from moving to doing a whole bunch of different things. This is honestly a very cool and exciting project and is something I have wanted to do for a while.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Your Name| Current Highschool | Mechanical Engineering | Senior 
+| Dishawn | Uprep | Mechanical Engineering | Sophmore 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
@@ -17,7 +17,7 @@ My final milestone, I've come a long way from where I started just a couple of m
 ![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
 
 # Second Milestone 
-
+1.(RC car)
 # First Milestone
   
 
