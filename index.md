@@ -11,7 +11,7 @@ This RC car that I am building is a big achievment in my life and is something I
 
 
 
-# Final Schematic Sir Kickington 
+
 
 
 # Second Milestone 
