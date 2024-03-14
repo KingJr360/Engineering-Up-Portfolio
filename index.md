@@ -17,7 +17,7 @@ This RC car that I am building is a big achievment in my life and is something I
 # Second Milestone 
 
 # First Milestone
-1.(RC Car)[Revalant Name](https://live.staticflickr.com/65535/53584373674_a0163ce6ac_w.jpg)
+1.[RC Car](https://live.staticflickr.com/65535/53584373674_a0163ce6ac_w.jpg)
 
 My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail what the Arduino Uno microcontroller is and how an H-Bridge works.
 
