@@ -15,6 +15,8 @@ This RC car that I am building is a big achievment in my life and is something I
 
 
 # Second Milestone 
+![RC Car With Laser].
+(https://live.staticflickr.com/65535/53648199055_d4107d7820_w.jpg)
 
 # First Milestone
 ![RC Car](https://live.staticflickr.com/65535/53584373674_a0163ce6ac_w.jpg)
