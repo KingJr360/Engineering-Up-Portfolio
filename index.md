@@ -18,8 +18,9 @@ This RC car that I am building is a big achievment in my life and is something I
 ![RC Car With Laser](https://live.staticflickr.com/65535/53648199055_d4107d7820_w.jpg)
 
 My second milestone was me being able to apply a controller to the Adruino car that makes it move, then, be able to add a laser to the Adruino car which has been done before but 1 person has done it before me. I am very happy to be able to finally do something I have been wanting to do for so long and lets just say that im pretty good at it.
+
 (Second Arduino Car Milestone)
-[![Dishawn's Second Milestone](https://youtu.be/cZ0ZdW84XJE?si=PotGAFchesBQ7DPx)
+[![Dishawn's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1713905487/video_to_markdown/images/youtube--cZ0ZdW84XJE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/cZ0ZdW84XJE?si=zqgnx5zJ6GkdKjqk "Dishawn's Second Milestone")
 
 
 # First Milestone
